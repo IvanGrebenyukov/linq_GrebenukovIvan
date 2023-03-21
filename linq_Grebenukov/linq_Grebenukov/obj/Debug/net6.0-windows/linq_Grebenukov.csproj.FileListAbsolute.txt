@@ -1,0 +1,17 @@
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\linq_Grebenukov\linq_Grebenukov\bin\Debug\net6.0-windows\linq_Grebenukov.exe
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\linq_Grebenukov\linq_Grebenukov\bin\Debug\net6.0-windows\linq_Grebenukov.deps.json
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\linq_Grebenukov\linq_Grebenukov\bin\Debug\net6.0-windows\linq_Grebenukov.runtimeconfig.json
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\linq_Grebenukov\linq_Grebenukov\bin\Debug\net6.0-windows\linq_Grebenukov.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\linq_Grebenukov\linq_Grebenukov\bin\Debug\net6.0-windows\linq_Grebenukov.pdb
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\linq_Grebenukov\linq_Grebenukov\obj\Debug\net6.0-windows\linq_Grebenukov.csproj.AssemblyReference.cache
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\linq_Grebenukov\linq_Grebenukov\obj\Debug\net6.0-windows\linq_Grebenukov.Form1.resources
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\linq_Grebenukov\linq_Grebenukov\obj\Debug\net6.0-windows\linq_Grebenukov.csproj.GenerateResource.cache
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\linq_Grebenukov\linq_Grebenukov\obj\Debug\net6.0-windows\linq_Grebenukov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\linq_Grebenukov\linq_Grebenukov\obj\Debug\net6.0-windows\linq_Grebenukov.AssemblyInfoInputs.cache
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\linq_Grebenukov\linq_Grebenukov\obj\Debug\net6.0-windows\linq_Grebenukov.AssemblyInfo.cs
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\linq_Grebenukov\linq_Grebenukov\obj\Debug\net6.0-windows\linq_Grebenukov.csproj.CoreCompileInputs.cache
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\linq_Grebenukov\linq_Grebenukov\obj\Debug\net6.0-windows\linq_Grebenukov.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\linq_Grebenukov\linq_Grebenukov\obj\Debug\net6.0-windows\refint\linq_Grebenukov.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\linq_Grebenukov\linq_Grebenukov\obj\Debug\net6.0-windows\linq_Grebenukov.pdb
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\linq_Grebenukov\linq_Grebenukov\obj\Debug\net6.0-windows\linq_Grebenukov.genruntimeconfig.cache
+C:\Users\ivang\OneDrive\Рабочий стол\college_2_kurs\Основы_алгоритмизации\linq_Grebenukov\linq_Grebenukov\obj\Debug\net6.0-windows\ref\linq_Grebenukov.dll
